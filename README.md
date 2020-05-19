@@ -1,2 +1,2 @@
 # hello-world
-First repository to learn github.
+Make and commit changes.
